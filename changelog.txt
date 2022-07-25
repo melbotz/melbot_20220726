@@ -1,0 +1,152 @@
+20220722
+new bot
+
+
+20220721
+new bot
+
+
+20220720
+new bot
+
+
+20220719
+new bot
+mark.sh
+
+
+20220718
+new bot
+improve data structure
+add gradient
+
+
+20220717
+new bot
+bookmarks
+lnbit.txt
+
+
+20220716
+new bot
+improve exodus script
+improve init script
+buttons
+
+
+20220715
+new bot
+
+
+20220714
+new bot
+gallery
+profile
+centering
+
+
+20220713
+new bot
+addbookmark.js script
+deploy to json.rocks
+websocket disconnects
+better description for link than reddit
+
+
+20220712
+new bot
+
+
+20220711
+new bot
+add ping interval to websocat
+
+
+20220710
+new bot
+main entity
+deploy to bitbots
+add relay
+nostr 617 lookup service
+change id to pubkey
+
+
+20220709
+new bot
+publish git marks to nostr
+get git-mark-init working
+set up relays for NIP 17
+publish.sh
+add tag to genesis for repo
+add updater
+add deploy
+add commands to package.json
+bug: updater not working
+script as js
+genesis tx
+add commitments
+deploy melbotz to localhost
+inline libraries
+add changelog
+reload on ws
+deployment link in readme
+add later.txt
+components library
+
+
+20220708
+new bot
+link to next bot
+navbar
+bookmark component
+multiple bookmarks
+bookmark map
+nostr
+  generate nostr id
+    from public key
+npm publish
+gitignore
+better README
+credit robohash
+github in npm
+align with schema.org
+run with npx
+add deploy.txt
+
+20220707
+new bot
+
+20220706
+new bot
+previous link
+new bookmark
+todo.txt
+exodus.txt
+init.txt
+bookmark as an object
+  @id 
+  image
+
+
+20220705
+exodus
+bookmarks
+write to gitlab
+
+20220704
+new bot
+
+20220703
+exodus genesis
+git mark init
+git mark
+index.html
+data island
+render module
+render
+use lazy git to commit
+Add gitmark.json
+css get from spux
+create changelog.txt
+link to gitmark tx
+avatar

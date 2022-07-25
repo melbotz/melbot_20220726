@@ -1,0 +1,29 @@
+todo
+
+improve nip-17, committments, pet names, chain
+improve nostrefresh
+improve 1617
+
+vocabs
+vocab for bookmarks
+use linked objects
+right structure
+  type agent
+birth an int
+
+app layout
+styles, link colour
+correct date format
+add tailwind
+wider tables
+sidebar
+
+script to exodus
+script to init
+script to deploy
+list of deploy links
+
+cleanup
+improve readme
+next bots, chores, find, others
+add aam, tags

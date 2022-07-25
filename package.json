@@ -1,0 +1,31 @@
+{
+  "name": "melbot_20220726",
+  "version": "0.0.1",
+  "description": "melbot_20220726",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run server && npm run updater",
+    "server": "pm2 start --name melbot_20220726_server bin/serve.sh",
+    "updater": "pm2 start --name melbot_20220726_updater bin/updater.sh --restart-delay=3600000"
+  },
+  "bin": {
+    "melbot_20220726": "./bin/serve.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/melbotz/melbot_20220726.git"
+  },
+  "author": "Melvin Carvalho",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "minimist": "^1.2.6",
+    "path": "^0.12.7",
+    "serve": "^13.0.4",
+    "url": "^0.11.0",
+    "ws": "^8.8.0"
+  }
+}
